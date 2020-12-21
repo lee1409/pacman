@@ -7,5 +7,5 @@ At each time-step, Ms pacman will perform a spatial tree-search (not state searc
 It then decides using a hard-coded rule to select the best path (e.g, the path with most rewards and fewer enemies)
 
 Run Main.java<br/>
-![Alt text](screenshot.png?raw=true "tree search Ms. pacman")
+![Best](Picture1.jpg "tree search Ms. pacman")
 
